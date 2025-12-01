@@ -1,0 +1,5 @@
+{
+  "name": "TranscriptPRO",
+  "description": "Enterprise-grade YouTube transcript analysis dashboard featuring AI summarization, sentiment tracking, and tiered subscription plans.",
+  "requestFramePermissions": []
+}
